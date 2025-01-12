@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Teknik Servis Cihaz Sorgulama
  * Description: Müşterilere teknik servis kodu ile cihaz durumlarını görmelerini sağlar.
- * Version: 1.0
- * Author: Ömer ATABER (JRodix.Com Internet Hizmetleri)
+ * Version: 1.1
+ * Author: Onur ERDOĞAN
  */
 
 defined('ABSPATH') or die('Oyle Yok Giris Yasak');
